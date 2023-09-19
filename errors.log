@@ -1,0 +1,6 @@
+{"level":"debug","message":"Esto es un mensaje de debug","timestamp":"2023-09-19T20:29:24.412Z"}
+{"level":"http","message":"Esto es un mensaje HTTP","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"info","message":"Esto es un mensaje de información","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"warning","message":"Esto es un mensaje de advertencia","timestamp":"2023-09-19T20:29:24.413Z"}
+{"level":"error","message":"Esto es un mensaje de error","timestamp":"2023-09-19T20:29:24.414Z"}
+{"level":"fatal","message":"Esto es un mensaje fatal","timestamp":"2023-09-19T20:29:24.414Z"}
